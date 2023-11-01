@@ -1,0 +1,22 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "node_js first practice",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js",
+    "test": "yes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "keywords": [
+    "yes"
+  ],
+  "author": "vishal_sharma",
+  "license": "ISC",
+  "dependencies": {
+    "url": "^0.11.3"
+  }
+}
